@@ -1,4 +1,5 @@
-Учебный проект выполнен в Jupyter Notebook.
+Учебный проект выполнен в `Jupyter Notebook`
+
 Использованы библиотеки `pandas`, `numpy`, `matplotlib.pyplot`, `seaborn`, `scipy`, `IPython.display`
 
 # Analysis-of-Yandex-Afisha-activity
