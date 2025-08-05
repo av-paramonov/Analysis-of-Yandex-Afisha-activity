@@ -1,3 +1,6 @@
+Учебный проект выполнен в Jupyter Notebook.
+Использованы библиотеки `pandas`, `numpy`, `matplotlib.pyplot`, `seaborn`, `scipy`, `IPython.display`
+
 # Analysis-of-Yandex-Afisha-activity
 ## Анализ пользовательской активности и проверка гипотез для сервиса Яндекс Афиша (июнь-октябрь 2024 г.)
 
